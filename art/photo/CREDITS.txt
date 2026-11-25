@@ -1,0 +1,16 @@
+Photos in this folder come from Unsplash and are used under the Unsplash License
+(https://unsplash.com/license): free for commercial use, no permission or credit required.
+Credit is given anyway. Each file was cropped, resized and converted to WebP.
+
+movies.webp  @alexlitvin                    https://unsplash.com/photos/turned-on-led-projector-on-table-MAYsdoYpGuk
+tv.webp      @its12_06pm                     https://unsplash.com/photos/dusty-television-remote-control-BJocEJaOQd8
+anime.webp   @agk42                          https://unsplash.com/photos/lighted-chinese-lantern-5-GNa303REg
+live.webp    @akeenster                      https://unsplash.com/photos/group-of-people-playing-soccer-on-soccer-field-8-s5QuUBtyM
+games.webp   @nervum                         https://unsplash.com/photos/black-and-red-gaming-mouse-on-black-mouse-pad-PKdXoZxFErw
+reels.webp   @nasrphotos                     https://unsplash.com/photos/collage-of-vintage-film-strips-with-sepia-tones-Z1q9Jr3Q6JU
+seats.webp   @lloyddirks                     https://unsplash.com/photos/red-and-black-theater-seats-4SLz_RCk6kQ
+
+/art/bg/stadium.webp is "Telstra Stadium at Night" from Wikimedia Commons, public domain:
+https://commons.wikimedia.org/wiki/File:Telstra_Stadium_at_Night.jpg
+
+These are mood pictures. They do not show ScrapX. Pictures of the app are in /art/app/.
